@@ -4,8 +4,7 @@ Using LangChain for interactive summarization by using user prompt over document
         
 1. Install the required dependencies:
 
-        pip install -r requirements.txt
-	pip3 install streamlit
+        pip install -r requirements.txt | pip3 install streamlit
         pip install "unstructured[all-docs]"
 
 2. Replace the API key in the main.py file with your actual OpenAI API key:
